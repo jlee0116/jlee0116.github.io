@@ -7,10 +7,6 @@ main:
   #   url: /talks/    
 
 
-  - title: "Software"
-    url: /software/    
-
-
   - title: "Awards"
     url: /awards/    
 
@@ -24,7 +20,7 @@ main:
     #url: /project/
         
   - title: "CV"
-    url: /files/Hyunjin_Cho_CV_2023.pdf
+    url: /files/CV.pdf
     
   #- title: "Blog Posts"
     #url: /year-archive/
