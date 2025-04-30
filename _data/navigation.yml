@@ -7,11 +7,11 @@ main:
   #   url: /talks/    
 
 
-  - title: "Awards"
-    url: /awards/    
+#  - title: "Awards"
+#    url: /awards/    
 
-  - title: "Professional Experience"
-    url: /professionalExperience/    
+#  - title: "Professional Experience"
+#    url: /professionalExperience/    
     
   #- title: "ML Projects"
     #url: /portfolio/
